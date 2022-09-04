@@ -1,4 +1,1 @@
-git is awesome!
-hexlet
-sdsf
-safasfa
+12345
